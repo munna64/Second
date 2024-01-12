@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 hi this is biswajit
+=======
+Artificial Human Powery
+
+>>>>>>> Stashed changes
